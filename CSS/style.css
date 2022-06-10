@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: url(../img/chica-en-medio-del-bosque_3840x2400_xtrafondos.com.jpg);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+
+}
+h1{
+    color: rgb(0, 0, 0);
+
+}
+h2{
+    color: rgb(86, 221, 23);
+    font-size: 35px;
+}
+h3{
+    color: rgb(86, 221, 23);
+    font-size: 25px;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    
+}
+button{
+    padding: 10px 30px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border: solid 1px rgb(0, 0, 0);
+    transition: .3s;
+    margin: 20px;
+}
+
+button:hover{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+
+}
